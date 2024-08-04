@@ -4,7 +4,7 @@
 
 <center>
 
-[**Live: https://google.com**](https://google.com)
+[**Live: https://aws-summer-training.vercel.app**](https://aws-summer-training.vercel.app)
 
 </center>
 
